@@ -1,4 +1,4 @@
 # my-first-github-repository
 Here is my first github repository
 
-README.md file was manually edited. One more edit at Github
+This line was modified manually while conflict resolution.
